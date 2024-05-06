@@ -1,3 +1,5 @@
+/* CLASES DEL PROFE EMILIANO ESPINOSO */
+
 let alumno = "fede";
 let nota = 9;
 
@@ -32,11 +34,16 @@ let suma = num1 + num2
 let resta = num1 - num2
 let multiplicacion = num1 * num2
 
+let modulo = num1 % num2
+
 alert("La suma es: " + suma) // ALERT para que nos salga el pop-up <>
 alert("La resta es: " + resta)
 alert("La multiplicacion es: " + multiplicacion)
+alert("El modulo es: " + modulo)
 
 document.write("<h1>Javascript<h1/>" + mult) // DOCUMENT WRITE escribe en el documento
+
+
 
 
 
